@@ -1,4 +1,4 @@
-# JavaScript Article Filter
+# JS Theme Switcher
 
 ## Description
 
