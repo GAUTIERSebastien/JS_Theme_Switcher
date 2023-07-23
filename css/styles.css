@@ -1,0 +1,31 @@
+#buttonSection{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 1rem;
+}
+button{
+    background-color: rgb(71,179,105); 
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 0.5rem;
+   
+}
+
+#articleSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+article{
+    border: 2px solid rgb(114, 114, 114);
+    height: 10rem;
+    width: 10rem;
+    margin: 1rem 0.5rem;
+    padding: 0.5rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    color: rgb(78, 78, 78);
+}

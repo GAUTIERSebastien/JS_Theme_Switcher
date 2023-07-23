@@ -22,5 +22,3 @@ No installation is needed to run this project. Just clone the repository and ope
 2. To filter articles by a theme, click on one of the theme buttons.
 3. The view will update to only display articles that match the selected theme.
 4. To reset the view and show all articles, click on the 'all' button.
-
-
