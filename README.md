@@ -2,7 +2,7 @@
 
 ## Description
 
-The JavaScript Article Filter is an interactive, theme-based article filter created using vanilla JavaScript. This application presents a user interface with a selection of four themes and a collection of 16 articles. Each article is assigned at least one theme through a CSS class. 
+The JS Theme Switcher is an interactive, theme-based article filter created using vanilla JavaScript. This application presents a user interface with a selection of four themes and a collection of 16 articles. Each article is assigned at least one theme through a CSS class. 
 
 When a user clicks on a theme button, the application filters the articles displayed based on the selected theme. Articles not associated with the selected theme are hidden from view. However, all articles will be displayed if the 'all' button is clicked.
 
